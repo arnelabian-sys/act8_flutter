@@ -1,5 +1,4 @@
-# Your Approved Project Title
-BrightCoco
+# BrightCoco
 
 ## Summary
 BrightCoco is a web-based system for coconut farmers who have difficulty
